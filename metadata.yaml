@@ -1,0 +1,26 @@
+_repo: Walker-of-the-Secret-Service_62740
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Post, Melville Davisson
+    birthdate: 1869
+    deathdate: 1930
+    gutenberg_agent_id: '1055'
+    url: http://www.gutenberg.org/2009/agents/1055
+    wikipedia: https://en.wikipedia.org/wiki/Melville_Davisson_Post
+description: ''
+gutenberg_issued: '2020-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62740'
+  lccn: '24022271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Secret service -- Fiction'
+- GITenberg
+title: Walker of the Secret Service
+url: http://www.gutenberg.org/ebooks/62740
